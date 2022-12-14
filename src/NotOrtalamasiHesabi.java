@@ -7,7 +7,7 @@ public class NotOrtalamasiHesabi
                 Scanner scan = new Scanner(System.in);
 
                 System.out.print("Matematik  notunuzu giriniz : ");
-                maNotu = scan.nextInt();
+                matNotu = scan.nextInt();
                 System.out.print("Fizik notunuzu giriniz : ");
                 fizikNotu = scan.nextInt();
                 System.out.print("Kimya notunuzu giriniz : ");
