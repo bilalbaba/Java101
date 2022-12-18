@@ -16,7 +16,7 @@ public class NotOrtalamasiHesabi
                 turkceNotu = scan.nextInt();
                 System.out.print("Tarih dersi notunuzu giriniz : ");
                 tarihNotu = scan.nextInt();
-                System.out.print("Müzik dersi notunuzu giriniz : ");
+                System.out.print("Müzik notunuzu giriniz : ");
                 muzikNotu = scan.nextInt();
                 int toplam = matNotu + muzikNotu + fizikNotu + kimyaNotu + tarihNotu + turkceNotu;
                 double ortalama = toplam / 6;
